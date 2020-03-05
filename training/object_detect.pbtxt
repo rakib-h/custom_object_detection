@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'book'
+}
+
+item {
+  id: 2
+  name: 'wallet'
+}
+
+item {
+  id: 3
+  name: 'mug'
+}
+
+item {
+  id: 4
+  name: 'cent'
+}
+
+item {
+  id: 5
+  name: 'water_bottle'
+}
+
+item {
+  id: 6
+  name: 'smartPhone'
+  }
