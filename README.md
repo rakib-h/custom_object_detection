@@ -4,4 +4,4 @@ This repository is a tutorial for how to use TensorFlow's Object Detection API t
 ##### Sample Object: Book, Mug, Water Bottle, Cent, SmartPhone, Wallet
 
 
-Python, Deep Learning, Tensorflow-Keras,mobilenet-ssd, Convolutional Neural Network
+
