@@ -16,7 +16,7 @@ This repository is a tutorial for how to use TensorFlow's Object Detection API t
 - contextlib2
 - ssd_mobilenet_v1_coco
 
-###### Tensorflow-API [Link](https://github.com/tensorflow/models/tree/master/research/object_detection).
+## Tensorflow-API [Link](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
 ## Sample output
 
