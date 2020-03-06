@@ -4,4 +4,5 @@ This repository is a tutorial for how to use TensorFlow's Object Detection API t
 ##### Sample Object: Book, Mug, Water Bottle, Cent, SmartPhone, Wallet
 
 
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
